@@ -13,4 +13,4 @@ badges:
   - segur
 ---
 
-Chargé de déploiement le jour, scénariste-réalisateur la nuit
+Biz dev le jour, réalisateur la nuit (Insta : @jay.bee.jay)
